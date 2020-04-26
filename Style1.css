@@ -1,0 +1,57 @@
+html{
+    background-color: lightcoral;
+}
+.contain{
+    background-color: rgba(211, 211, 211, 0.5);
+    max-width: 210px;
+    margin: 300px auto;
+    border: #ffffff;
+    border-style: solid;
+    padding-top: 40px;
+    padding-bottom: 70px;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+.login{
+    font-family: forte;
+}
+.login i{
+    width: 50px;
+    float: left;
+    text-align: center;
+}
+hr{
+    border-style: solid;
+    border-color: #ffffff;
+    margin-bottom: 35px;
+}
+h1{
+    text-align: left;
+    color: seashell;
+}
+#user{
+    background:none;
+    color: white;
+    border: #ffffff;
+    border-style: dotted;
+    padding: 7px;
+    width: 90%;
+}
+#pass{
+    background:none;
+    color: white;
+    border: #ffffff;
+    border-style: dotted;
+    padding: 7px;
+    width: 90%;
+}
+#but1{
+    text-decoration-color: #ffffff;
+    border-style: solid;
+    border-color: aliceblue;
+
+    background: none;
+    color: white;
+    width: 100%;
+    padding: 5px;
+}
